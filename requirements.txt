@@ -1,0 +1,14 @@
+# Contracts
+vyper>=0.4.0
+
+# Blockchain
+web3>=6.0
+eth-account>=0.11
+eth-abi>=5.0
+eth-utils>=4.0
+
+# Web
+python-fasthtml>=0.6
+pydantic-settings>=2.0
+httpx>=0.27
+uvicorn>=0.30
